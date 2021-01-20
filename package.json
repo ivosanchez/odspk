@@ -7,7 +7,7 @@
     "@nuxt/typescript-runtime": "2.0.0",
     "@nuxtjs/composition-api": "0.16.4",
     "@nuxtjs/svg": "^0.1.12",
-    "gsap": "^1.20.6",
+    "gsap": "^3.6.0",
     "nuxt": "2.14.11",
     "nuxt-mq": "^2.0.2",
     "pace": "^0.0.4",
